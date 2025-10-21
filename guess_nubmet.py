@@ -9,3 +9,4 @@ while True:
         break
     else:
         print("Неудача( Попробуй ещё раз!")
+#ыыыыыы
